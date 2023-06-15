@@ -8,13 +8,13 @@
 *Nome: Natan Balmant
 
 ## Sobre o Jogo
-
-
-
+O jogo é feito na unity, onde o objetivo foi produzir esse mini game, foi usado um pré template chamado karting microgame.
+Foi alterado todo o layout do jogo , personalizando toda a pista , adicionando mais karts, produzindo e fazendo o script
+para ser salvo todos os checkpoints. Produzido também a tela inicial com opções e iniciando o jogo.
 
 ### Vídeo de Demonstração
 
-Tava o vídeo aq
+
 
 ### Prints de Demonstração
 
