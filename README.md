@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=CXVY-g-3oV0&ab_channel=NatanNegocios
   <tr>
     <td align="center">
       <a href="https://github.com/saturi11">
-        <img src="https://avatars3.githubusercontent.com/u/94920663" width="100px;" alt="Foto do Gabriel Saturi"/><br>
+        <img src="https://avatars.githubusercontent.com/u/61097598?v=4" width="100px;" alt="Foto do Gabriel Saturi"/><br>
         <sub>
           <b>Gabriel Saturi</b>
         </sub>
