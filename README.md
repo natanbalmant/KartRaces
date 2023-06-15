@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=CXVY-g-3oV0&ab_channel=NatanNegocios
   <tr>
     <td align="center">
       <a href="https://github.com/saturi11">
-        <img src="https://avatars3.githubusercontent.com/u/94920663" width="100px;" alt="Foto do Vinícius Gabriel no GitHub"/><br>
+        <img src="https://avatars3.githubusercontent.com/u/94920663" width="100px;" alt="Foto do Gabriel Saturi"/><br>
         <sub>
           <b>Gabriel Saturi</b>
         </sub>
@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=CXVY-g-3oV0&ab_channel=NatanNegocios
 
   <td align="center">
     <a href="https://github.com/natanbalmant">
-      <img src="https://avatars.githubusercontent.com/u/58116134" width="100px;" alt="Foto do Pedro Zuviollo no GitHub"/><br>
+      <img src="https://avatars.githubusercontent.com/u/60973117?s=400&u=60a699d931d4fbdf3d93156543cb0578b21d9f0b&v=4" width="100px;" alt="Foto do Natan Balmant"/><br>
       <sub>
         <b>Natan Balmant</b>
       </sub>
