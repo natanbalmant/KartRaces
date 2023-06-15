@@ -13,12 +13,14 @@ Foi alterado todo o layout do jogo , personalizando toda a pista , adicionando m
 para ser salvo todos os checkpoints. Produzido também a tela inicial com opções e iniciando o jogo.
 
 ### Vídeo de Demonstração
-
-
+https://www.youtube.com/watch?v=CXVY-g-3oV0&ab_channel=NatanNegocios
 
 ### Prints de Demonstração
 
-Aí vc arrasta aq 
+![image](https://github.com/natanbalmant/KartRaces/assets/60973117/b47c3a86-119b-49e8-8a8c-43d419ecf01c)
+![image](https://github.com/natanbalmant/KartRaces/assets/60973117/2ffb28ed-8251-4758-a4cb-cfa7719b8560)
+![image](https://github.com/natanbalmant/KartRaces/assets/60973117/301102ce-8a7c-4af6-bffc-5c3bf2d8399c)
+
 
 ## Áreas da Computação Gráfica Utilizadas
 
@@ -35,19 +37,19 @@ Aí vc arrasta aq
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Vini7Dev">
+      <a href="https://github.com/saturi11">
         <img src="https://avatars3.githubusercontent.com/u/94920663" width="100px;" alt="Foto do Vinícius Gabriel no GitHub"/><br>
         <sub>
-          <b>Vinícius Brito</b>
+          <b>Gabriel Saturi</b>
         </sub>
       </a>
     </td>
 
   <td align="center">
-    <a href="https://github.com/preduouh">
+    <a href="https://github.com/natanbalmant">
       <img src="https://avatars.githubusercontent.com/u/58116134" width="100px;" alt="Foto do Pedro Zuviollo no GitHub"/><br>
       <sub>
-        <b>Pedro Zuviollo</b>
+        <b>Natan Balmant</b>
       </sub>
     </a>
   </td>
@@ -57,7 +59,7 @@ Aí vc arrasta aq
 ## ‍⚖️ License
 The MIT License (MIT)
 
-Copyright (c) 2023 Vinícius Brito, Pedro Zuviollo
+Copyright (c) 2023 Gabriel Saturi, Natan Balmant
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
