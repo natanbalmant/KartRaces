@@ -13,7 +13,6 @@ Foi alterado todo o layout do jogo , personalizando toda a pista , adicionando m
 para ser salvo todos os checkpoints. Produzido também a tela inicial com opções e iniciando o jogo.
 
 ### Vídeo de Demonstração
-![image](https://github.com/natanbalmant/KartRaces/assets/60973117/dac1dcf8-860d-4dc9-82e8-3276fc65003b)
 https://www.youtube.com/watch?v=CXVY-g-3oV0&ab_channel=NatanNegocios
 
 ### Prints de Demonstração
