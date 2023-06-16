@@ -1,4 +1,4 @@
-# KartRaces
+# KartGame
 > Jogo 
 
 ## Estudantes
